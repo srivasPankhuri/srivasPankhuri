@@ -28,7 +28,7 @@ I love **Brain Storming Sessions**💡 that helps me come up with **Optimised So
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=srivasPankhuri&layout=compact&theme=radical" />
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=srivasPankhuri&theme=radical" />
 </p>
 
 <p align="center">
