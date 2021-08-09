@@ -2,7 +2,7 @@
 <h2 align="center"> It's <a  href="https://github.com/srivasPankhuri/"> Pankhuri Srivastava</a></h2>
 <br>
 
-<img align='right' src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif" width="250" height="210">
+<img align='right' src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif" width="300" height="250">
 
 I'm a 1st year **Computer Science** student from **JSS Academy of Technical Education, Noida**.<br> 
 I'm a **Competitive Programmer**, who writes codes in **C++** or **JAVA** 💻.<br>
