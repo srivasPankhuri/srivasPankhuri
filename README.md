@@ -12,7 +12,6 @@ I love **Brain Storming Sessions**💡 that helps me come up with **Optimised So
 - 💻 I am also learning **Frontend Web Development**.
 - 💬I’m looking forward to contribute to **Open Source Projects**.
 
-
 <br>
 <h3 align="center">🛠 My Tech Stack</h3>
 <br>
@@ -29,6 +28,9 @@ I love **Brain Storming Sessions**💡 that helps me come up with **Optimised So
 
 <p align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=srivasPankhuri&theme=radical" />
+</p>
+<p align="center">
+  <img src ="https://komarev.com/ghpvc/?username=srivasPankhuri&style=plastic&color=f72585"/>
 </p>
 
 <p align="center">
