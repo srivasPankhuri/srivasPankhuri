@@ -1,5 +1,5 @@
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px"></h1>
-<h2 align="center"> It's <a  href="https://github.com/srivasPankhuri/"> Pankhuri Srivastava</a></h2>
+<h2 align="center"> It's <a  href="https://www.linkedin.com/in/pankhuri-srivastava-2001/"> Pankhuri Srivastava</a></h2>
 <br>
 
 <img align='right' src="https://miro.medium.com/max/1400/0*K2WLMTExLyida7OR.gif" width="260" height="230">
