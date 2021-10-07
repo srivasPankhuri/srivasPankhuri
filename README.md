@@ -32,6 +32,9 @@ I love **Brain Storming Sessions**💡 that helps me come up with **Optimised So
 <p align="center">
   <img src ="https://komarev.com/ghpvc/?username=srivasPankhuri&style=plastic&color=f72585"/>
 </p>
+<a href="https://github.com/srivasPankhuri/github-readme-activity-graph"><img alt="Pankhuri Srivastava's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=srivasPankhuri&bg_color=0D1117&point=FFFFFF&hide_border=true&color=f72585&line=f72585" /></a>
+
+<br><br>
 
 <p align="center">
   <i>Let's connect and chat! Open to anything under the sun.</i>
