@@ -2,14 +2,14 @@
 <h2 align="center"> It's <a  href="https://www.linkedin.com/in/pankhuri-srivastava-2001/"> Pankhuri Srivastava</a></h2>
 <br>
 
-<img align='right' src="https://miro.medium.com/max/1400/0*K2WLMTExLyida7OR.gif" width="260" height="230">
+<img align="right" src="https://miro.medium.com/max/1400/0*K2WLMTExLyida7OR.gif" width="260" height="230">
 
 I'm a 2nd year **Computer Science** student from **JSS Academy of Technical Education, Noida**.<br> 
 I'm a **Competitive Programmer**, who writes codes in **C++** or **JAVA** 💻.<br>
 I love **Brain Storming Sessions**💡 that helps me come up with **Optimised Solutions** for problems. 
 
 - 🛠 I’m currently focusing on **Data Structures and Algorithms** to get better at **Problem Solving Skills**.
-- 💻 I am also learning **Frontend Web Development**.
+- 💻 I am also learning **Machine Learning and Backend Development**.
 - 💬I’m looking forward to contribute to **Open Source Projects**.
 
 <br>
