@@ -5,7 +5,7 @@
 <img align="right" src="https://miro.medium.com/max/1400/0*K2WLMTExLyida7OR.gif" width="260" height="230">
 
 I'm a 2nd year **Computer Science** student from **JSS Academy of Technical Education, Noida**.<br> 
-I'm a **Machine Learning Enthusiast**
+I'm a **Machine Learning Enthusiast**.<br>
 I'm also a **Competitive Programmer**, who writes codes in **C++** or **JAVA** 💻.<br>
 I love **Brain Storming Sessions**💡 that helps me come up with **Optimised Solutions** for problems. 
 
