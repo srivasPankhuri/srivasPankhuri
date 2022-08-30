@@ -5,21 +5,31 @@
 <img align="right" src="https://miro.medium.com/max/1400/0*K2WLMTExLyida7OR.gif" width="260" height="230">
 
 I'm a 2nd year **Computer Science** student from **JSS Academy of Technical Education, Noida**.<br> 
-I'm a **Competitive Programmer**, who writes codes in **C++** or **JAVA** 💻.<br>
+I'm a **Machine Learning Enthusiast**
+I'm also a **Competitive Programmer**, who writes codes in **C++** or **JAVA** 💻.<br>
 I love **Brain Storming Sessions**💡 that helps me come up with **Optimised Solutions** for problems. 
 
-- 🛠 I’m currently focusing on **Data Structures and Algorithms** to get better at **Problem Solving Skills**.
-- 💻 I am also learning **Machine Learning and Backend Development**.
+- 🛠 I’m currently learning **Machine Learning** and **Data Structures and Algorithms**.
+- 💻 I am also planning to get into **Backend Development**.
 - 💬I’m looking forward to contribute to **Open Source Projects**.
 
 <br>
-<h3 align="center">🛠 My Tech Stack</h3>
+<h2 align="center">🛠 My Tech Stack</h2>
+<h3 align="center">📋 Languages </h3>
 <br>
-<p align="center"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white/"> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/> 
+<p align="center"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white/"> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/> 
 </p>
-<h3 align="center">⚡Github Stats</h3>
+<h3 align="center">🖥️ ML/DL </h3>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=srivasPankhuri&show_icons=true&hide=stars,issues&count_private=true&theme=radical" alt="srivasPankhuri" />
+<img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"> <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"> <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"> <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"> <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white">
+</p>
+<h3 align="center">🕓 Version Control </h3>
+<p align="center">
+<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
+</p>
+<h2 align="center">⚡Github Stats</h2>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=srivasPankhuri&show_icons=true&hide=issues&count_private=true&theme=radical" alt="srivasPankhuri" />
 </p>
 
 <p align="center">
