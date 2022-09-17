@@ -49,12 +49,24 @@ I love **Brain Storming Sessions**💡 that helps me come up with **Optimised So
 <br><br>
 
 <p align="center">
-  <i>Let's connect and chat! Open to anything under the sun.</i>
+  <h4 align="center">Let's connect and chat! Open to anything under the sun.</h4>
 
+
+  
   <p align="center">
-    <a href="https://twitter.com/Pankhur11" alt="Twitter"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/twitter-fill.svg"></a>
-    <a href="https://www.linkedin.com/in/pankhuri-srivastava-2001/" alt="Linkedin"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/linkedin-fill.svg"></a>
-    <a href="mailto:pankh11pantomath@gmail.com" alt="Contact me"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/mail-fill.svg"></a>
-
-  </p>
+<br/>
+<a href="https://twitter.com/Pankhur11" alt="Twitter">
+  <img alt="guilyx's Instagram" width="30px" src="https://user-images.githubusercontent.com/60147732/151752017-e83f8422-77ce-447a-a51f-74d676e22c17.png" />
+</a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/pankhuri-srivastava-2001/" alt="Linkedin">
+  <img alt="guilyx's LinkdeIN" width="30px" src="https://user-images.githubusercontent.com/57393186/151711211-5c29f763-d28a-4b7a-a741-1f8c0dd2fe0e.png" />
+</a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/__pankhuri__11/">
+  <img alt="guilyx's Instagram" width="30px" src="https://user-images.githubusercontent.com/57393186/151711168-f5cc60d2-c486-46f1-bc23-c740b719d80d.png" />
+</a>&nbsp;&nbsp;
+<a href="mailto:pankh11pantomath@gmail.com" alt="Contact me">
+  <img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/mail-fill.svg" width="30px">
+</a>&nbsp;&nbsp;
+ 
+</p>
 
