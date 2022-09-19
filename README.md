@@ -6,7 +6,7 @@
 
 <img align="right" src="https://miro.medium.com/max/1400/0*K2WLMTExLyida7OR.gif" width="260" height="230">
 
-I'm a 2nd year **Computer Science** student from **JSS Academy of Technical Education, Noida**.<br> 
+I'm a pre final year **Computer Science** student from **JSS Academy of Technical Education, Noida**.<br> 
 I'm a **Machine Learning Enthusiast**.<br>
 I'm also a **Competitive Programmer**, who writes codes in **C++** or **JAVA** 💻.<br>
 I love **Brain Storming Sessions**💡 that helps me come up with **Optimised Solutions** for problems. 
@@ -31,7 +31,7 @@ I love **Brain Storming Sessions**💡 that helps me come up with **Optimised So
 </p>
 <h2 align="center">⚡Github Stats</h2>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=srivasPankhuri&show_icons=true&hide=issues&count_private=true&theme=radical" alt="srivasPankhuri" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=srivasPankhuri&show_icons=true&hide=stars&count_private=true&theme=radical" alt="srivasPankhuri" />
 </p>
 
 <p align="center">
