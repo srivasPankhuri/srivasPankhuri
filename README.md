@@ -7,12 +7,12 @@
 <img align="right" src="https://miro.medium.com/max/1400/0*K2WLMTExLyida7OR.gif" width="260" height="230">
 
 I'm a pre final year **Computer Science** student from **JSS Academy of Technical Education, Noida**.<br> 
-I'm a **Machine Learning Enthusiast**.<br>
+I'm an aspiring **Software Developer**.<br>
 I'm also a **Competitive Programmer**, who writes codes in **C++** or **JAVA** 💻.<br>
 I love **Brain Storming Sessions**💡 that helps me come up with **Optimised Solutions** for problems. 
 
-- 🛠 I’m currently learning **Machine Learning** and **Data Structures and Algorithms**.
-- 💻 I am also planning to get into **Backend Development**.
+- 🛠 I’m currently learning **Backend Development** and **Data Structures and Algorithms**.
+- 💻 I am also planning to get into **DevOps**.
 - 💬I’m looking forward to contribute to **Open Source Projects**.
 
 <br>
@@ -63,9 +63,9 @@ I love **Brain Storming Sessions**💡 that helps me come up with **Optimised So
   
   <p align="center">
 <br/>
-<a href="https://twitter.com/Pankhur11" alt="Twitter">
+<!-- <a href="https://twitter.com/Pankhur11" alt="Twitter">
   <img alt="guilyx's Instagram" width="30px" src="https://user-images.githubusercontent.com/60147732/151752017-e83f8422-77ce-447a-a51f-74d676e22c17.png" />
-</a>&nbsp;&nbsp;
+</a>&nbsp;&nbsp; -->
 <a href="https://www.linkedin.com/in/pankhuri-srivastava-2001/" alt="Linkedin">
   <img alt="guilyx's LinkdeIN" width="30px" src="https://user-images.githubusercontent.com/57393186/151711211-5c29f763-d28a-4b7a-a741-1f8c0dd2fe0e.png" />
 </a>&nbsp;&nbsp;
