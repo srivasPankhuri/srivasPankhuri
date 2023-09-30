@@ -38,9 +38,9 @@ I love **Brain Storming Sessions**💡 that helps me come up with **Optimised So
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
 </p>
 <h2 align="center">⚡Github Stats</h2>
-<p align="center">
+<!-- <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=srivasPankhuri&show_icons=true&hide=stars&count_private=true&theme=radical" alt="srivasPankhuri" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srivasPankhuri&layout=compact&langs_count=10&count_private=true&theme=radical" alt="srivasPankhuri" />
